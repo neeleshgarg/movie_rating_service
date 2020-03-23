@@ -1,0 +1,16 @@
+http://localhost:8082/movies/asd
+
+
+
+http://localhost:8083/ratingsdata/users/sdf
+
+
+
+
+
+http://localhost:8081/catalog/sda
+
+
+
+
+http://localhost:8761/
